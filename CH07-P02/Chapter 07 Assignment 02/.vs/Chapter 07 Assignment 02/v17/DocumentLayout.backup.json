@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buckn\\OneDrive\\Desktop\\Avila\\Fall 25\u0027\\Advanced Operations in C#\\Homework\\CH07-P02\\Chapter 07 Assignment 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BEF4FA-94E1-47EF-BFF6-5D86433A7C30}|Chapter 07 Assignment 02\\Chapter 07 Assignment 02.csproj|c:\\users\\buckn\\onedrive\\desktop\\avila\\fall 25\u0027\\advanced operations in c#\\homework\\ch07-p02\\chapter 07 assignment 02\\chapter 07 assignment 02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BEF4FA-94E1-47EF-BFF6-5D86433A7C30}|Chapter 07 Assignment 02\\Chapter 07 Assignment 02.csproj|solutionrelative:chapter 07 assignment 02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BEF4FA-94E1-47EF-BFF6-5D86433A7C30}|Chapter 07 Assignment 02\\Chapter 07 Assignment 02.csproj|c:\\users\\buckn\\onedrive\\desktop\\avila\\fall 25\u0027\\advanced operations in c#\\homework\\ch07-p02\\chapter 07 assignment 02\\chapter 07 assignment 02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0BEF4FA-94E1-47EF-BFF6-5D86433A7C30}|Chapter 07 Assignment 02\\Chapter 07 Assignment 02.csproj|solutionrelative:chapter 07 assignment 02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\buckn\\OneDrive\\Desktop\\Avila\\Fall 25\u0027\\Advanced Operations in C#\\Homework\\CH07-P02\\Chapter 07 Assignment 02\\Chapter 07 Assignment 02\\Form1.cs",
+              "RelativeDocumentMoniker": "Chapter 07 Assignment 02\\Form1.cs",
+              "ToolTip": "C:\\Users\\buckn\\OneDrive\\Desktop\\Avila\\Fall 25\u0027\\Advanced Operations in C#\\Homework\\CH07-P02\\Chapter 07 Assignment 02\\Chapter 07 Assignment 02\\Form1.cs",
+              "RelativeToolTip": "Chapter 07 Assignment 02\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:42:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buckn\\OneDrive\\Desktop\\Avila\\Fall 25\u0027\\Advanced Operations in C#\\Homework\\CH07-P02\\Chapter 07 Assignment 02\\Chapter 07 Assignment 02\\Form1.cs",
+              "RelativeDocumentMoniker": "Chapter 07 Assignment 02\\Form1.cs",
+              "ToolTip": "C:\\Users\\buckn\\OneDrive\\Desktop\\Avila\\Fall 25\u0027\\Advanced Operations in C#\\Homework\\CH07-P02\\Chapter 07 Assignment 02\\Chapter 07 Assignment 02\\Form1.cs [Design]",
+              "RelativeToolTip": "Chapter 07 Assignment 02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:24:14.459Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

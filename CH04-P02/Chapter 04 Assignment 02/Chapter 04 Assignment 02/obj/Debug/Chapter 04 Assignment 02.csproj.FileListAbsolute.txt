@@ -1,0 +1,11 @@
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter 04 Assignment 02.csproj.AssemblyReference.cache
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter_04_Assignment_02.Form1.resources
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter_04_Assignment_02.Properties.Resources.resources
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter 04 Assignment 02.csproj.GenerateResource.cache
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter 04 Assignment 02.csproj.CoreCompileInputs.cache
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\bin\Debug\Chapter 04 Assignment 02.exe.config
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\bin\Debug\Chapter 04 Assignment 02.exe
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\bin\Debug\Chapter 04 Assignment 02.pdb
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter 04 Assignment 02.exe
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter 04 Assignment 02.pdb
+C:\Users\buckn\OneDrive\Desktop\Avila\Fall 25'\Advanced Operations in C#\Homework\CH04-P02\Chapter 04 Assignment 02\Chapter 04 Assignment 02\obj\Debug\Chapter 04 Assignment 02.exe.config

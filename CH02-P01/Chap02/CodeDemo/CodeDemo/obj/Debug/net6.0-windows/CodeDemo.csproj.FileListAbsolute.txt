@@ -1,0 +1,17 @@
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\bin\Debug\net6.0-windows\CodeDemo.exe
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\bin\Debug\net6.0-windows\CodeDemo.deps.json
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\bin\Debug\net6.0-windows\CodeDemo.runtimeconfig.json
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\bin\Debug\net6.0-windows\CodeDemo.dll
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\bin\Debug\net6.0-windows\CodeDemo.pdb
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.csproj.AssemblyReference.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.Form1.resources
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.csproj.GenerateResource.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.AssemblyInfoInputs.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.AssemblyInfo.cs
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.csproj.CoreCompileInputs.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.dll
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\refint\CodeDemo.dll
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.pdb
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\CodeDemo.genruntimeconfig.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\CodeDemo\CodeDemo\obj\Debug\net6.0-windows\ref\CodeDemo.dll

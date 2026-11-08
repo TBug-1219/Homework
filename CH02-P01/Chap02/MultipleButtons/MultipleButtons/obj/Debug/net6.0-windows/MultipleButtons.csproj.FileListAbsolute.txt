@@ -1,0 +1,17 @@
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\bin\Debug\net6.0-windows\MultipleButtons.exe
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\bin\Debug\net6.0-windows\MultipleButtons.deps.json
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\bin\Debug\net6.0-windows\MultipleButtons.runtimeconfig.json
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\bin\Debug\net6.0-windows\MultipleButtons.dll
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\bin\Debug\net6.0-windows\MultipleButtons.pdb
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.csproj.AssemblyReference.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.Form1.resources
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.csproj.GenerateResource.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.AssemblyInfoInputs.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.AssemblyInfo.cs
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.csproj.CoreCompileInputs.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.dll
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\refint\MultipleButtons.dll
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.pdb
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\MultipleButtons.genruntimeconfig.cache
+D:\repos\CSharp6E\StudentSourceCode\Chapter02\MultipleButtons\MultipleButtons\obj\Debug\net6.0-windows\ref\MultipleButtons.dll
